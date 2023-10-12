@@ -1,0 +1,17 @@
+.card-title{
+    font-size: 1em;
+}
+
+.card {
+    margin-top: 1em;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-img-top {
+    max-height: 400px;
+    border-radius: 20px 20px 0 0;
+}
